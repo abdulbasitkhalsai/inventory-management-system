@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Electronics",
+        "product_id": "PRD00001",
+        "name": "Juicer",
+        "price": 55.0,
+        "quantity_in_stock": 19,
+        "brand": "Philips",
+        "warranty_years": 1
+    },
+    {
+        "type": "Grocery",
+        "product_id": "PRD00002",
+        "name": "Onion",
+        "price": 1.0,
+        "quantity_in_stock": 55,
+        "expiry_date": "2025-05-21"
+    },
+    {
+        "type": "Clothing",
+        "product_id": "PRD00003",
+        "name": "Shirt",
+        "price": 10.0,
+        "quantity_in_stock": 200,
+        "size": "L",
+        "material": "Woven"
+    },
+    {
+        "type": "Electronics",
+        "product_id": "PRD00004",
+        "name": "BLENDER",
+        "price": 22.0,
+        "quantity_in_stock": 222,
+        "brand": "PHILIPS",
+        "warranty_years": 1
+    }
+]
